@@ -6,7 +6,7 @@ public class Task09 {
 		int x;
 		double fx;
 		
-		x = 5;
+		x = 4;
 		fx = 0;
 		
 		if(x <= -3)	{
